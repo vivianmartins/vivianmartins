@@ -100,6 +100,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vivianmartins/vivianmartins/output/snake.svg" alt="Snake animation" />
-
 ###
