@@ -19,7 +19,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
--> I'm Vivian Martins | Portugal<br><br>-> A passionate frontend developer, backend developer and design
+-> I'm Vivian Martins | Portugal<br><br>-> A passionate frontend developer, backend developer and design.
 
 
 
